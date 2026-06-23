@@ -66,5 +66,6 @@ Focused on systems security, low-level engineering, and infrastructure defense. 
 * **[pfSense Security Gateway](https://github.com/Abdullah-ElPsyKo/Securing_Networks_pfSense/tree/main)**
   Design and deployment of a multi-zone network architecture (WAN, LAN, DMZ) isolated via multi-vNIC hypervisor allocation. Enforces strict inter-zone firewall policies, edge GeoIP filtering via pfBlockerNG, and deep packet inspection using Suricata in inline IPS mode accelerated by Netmap kernel tuning.
 ## Education
-* **Professional Bachelor in ICT: Cybersecurity & Cloud** – Artesis Plantijn University College
+* ***ICT: Cybersecurity & Cloud (Core Technical Curriculum Completed)**  
+*Artesis Plantijn University College (2023 – 2026)*
 * **CS50x: Introduction to Computer Science** – Harvard University (edX)
