@@ -9,8 +9,9 @@ Focused on systems security, low-level engineering, and infrastructure defense. 
 ### Systems & Low-Level Development
 <div>
     <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Bash_&_PowerShell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash_&_PowerShell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
 
 ### Security Operations & Infrastructure Defense
@@ -21,12 +22,20 @@ Focused on systems security, low-level engineering, and infrastructure defense. 
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </div>
 
+### Operating Systems & Enterprise Identity
+<div>
+    <img src="https://img.shields.io/badge/-Windows_Server_/_Desktop-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux_(RHEL/Debian)-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Intune-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
+</div>
+
 ### Cloud, Virtualization & Automation
 <div>
     <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
     <img src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
     <img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Linux_(RHEL/Debian)-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 </div>
 
 ---
