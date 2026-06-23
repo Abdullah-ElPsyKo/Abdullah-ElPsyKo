@@ -36,25 +36,25 @@ Focused on systems security, low-level engineering, and infrastructure defense. 
 ### Systems Programming & OS Internals
 * **[SysMonitor-Core](LINK)** *(In Development)*
   A modular systems programming project designed to audit process integrity levels and interact with Windows security tokens utilizing the Win32 API and `SeDebugPrivilege`.
-* **[WindowsCommandShell](LINK)**
+* **[WindowsCommandShell]((https://github.com/Abdullah-ElPsyKo/WindowsCommandShell))**
   A low-level C implementation demonstrating custom I/O redirection (`>` and `<`) via the native Windows API. Implements explicit kernel handle inheritance (`SECURITY_ATTRIBUTES`) and process manipulation by overriding `STARTUPINFO` standard streams before spawning child processes via `CreateProcessW`.
 
 ### Security Engineering & Log Analysis
-* **[linux-attack-detection-splunk](LINK)**
+* **[linux-attack-detection-splunk](https://github.com/Abdullah-ElPsyKo/linux-attack-detection-splunk)**
   An end-to-end telemetry engineering lab deploying Splunk Enterprise to capture and parse enriched endpoint logs. Implements custom `auditd` kernel rules via `rsyslog` to track process executions (`execve`), persistence vectors, and SUID abuse, mapped directly to the MITRE ATT&CK framework with custom SPL dashboards.
-* **[rocky-linux-9-hardening](LINK)**
+* **[rocky-linux-9-hardening](https://github.com/Abdullah-ElPsyKo/rocky-linux-9-hardening)**
   Automated security hardening modules and security policy enforcement scripts written in Bash, targeting high-severity findings on Rocky Linux 9 systems.
 
 ### Offensive & Defensive Security Operations
 * **[Modular-C2-Framework](https://github.com/Abdullah-ElPsyKo/Modular-C2-Framework)**
   A modular post-exploitation framework in Python utilizing a dynamic JSON configuration architecture. Features remote runtime module loading via threading, leveraging the GitHub API as a transport layer for configuration management and data exfiltration. Includes modules for network enumeration (TTL-based OS detection), port scanning, and reverse-shell backdoor functionality.
-* **[ansible-cowrie-honeypot](LINK)**
+* **[ansible-cowrie-honeypot](https://github.com/Abdullah-ElPsyKo/ansible-cowrie-honeypot)**
   Automated deployment of an SSH/Telnet honeypot for low-interaction threat intelligence gathering.
 
 ### Enterprise Infrastructure & Automation
-* **[OpenSCAP-Ansible_rl9](LINK)**
+* **[OpenSCAP-Ansible_rl9](https://github.com/Abdullah-ElPsyKo/OpenSCAP-Ansible_rl9)**
   An Infrastructure as Code (IaC) configuration pipeline automating OpenSCAP compliance scanning against CIS Level 1 benchmarks on Rocky Linux 9. Features distributed execution via Semaphore UI, automated scheduling, and an authenticated Flask-based HTTPS reporting engine.
-* **[pfSense Security Gateway](LINK)**
+* **[pfSense Security Gateway](https://github.com/Abdullah-ElPsyKo/Securing_Networks_pfSense/tree/main)**
   Design and deployment of a multi-zone network architecture (WAN, LAN, DMZ) isolated via multi-vNIC hypervisor allocation. Enforces strict inter-zone firewall policies, edge GeoIP filtering via pfBlockerNG, and deep packet inspection using Suricata in inline IPS mode accelerated by Netmap kernel tuning.
 ## Education
 * **Professional Bachelor in ICT: Cybersecurity & Cloud** – Artesis Plantijn University College
