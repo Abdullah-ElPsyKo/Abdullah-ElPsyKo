@@ -34,9 +34,9 @@ Focused on systems security, low-level engineering, and infrastructure defense. 
 ## Project Directory
 
 ### Systems Programming & OS Internals
-* **[SysMonitor-Core](LINK)** *(In Development)*
+* **[SysMonitor-Core](https://github.com/Abdullah-ElPsyKo/SysMonitor-Core)** *(In Development)*
   A modular systems programming project designed to audit process integrity levels and interact with Windows security tokens utilizing the Win32 API and `SeDebugPrivilege`.
-* **[WindowsCommandShell]((https://github.com/Abdullah-ElPsyKo/WindowsCommandShell))**
+* **[WindowsCommandShell](https://github.com/Abdullah-ElPsyKo/WindowsCommandShell)**
   A low-level C implementation demonstrating custom I/O redirection (`>` and `<`) via the native Windows API. Implements explicit kernel handle inheritance (`SECURITY_ATTRIBUTES`) and process manipulation by overriding `STARTUPINFO` standard streams before spawning child processes via `CreateProcessW`.
 
 ### Security Engineering & Log Analysis
