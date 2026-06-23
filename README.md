@@ -1,4 +1,4 @@
-# Abdulla Bagishev
+# Abdulla
 
 **Systems & Security Engineer** | Specializing in Windows Internals, Low-Level Programming, and Infrastructure Defense.
 
