@@ -1,10 +1,10 @@
 # Abdullah
 
-**Systems Programming & Security**
+**Systems Programming | Infrastructure Engineering**
 
-I'm interested in systems programming, Windows internals, and infrastructure security. Most of my projects explore how software interacts with the operating system, from Win32 process management and security tokens to infrastructure automation and detection engineering.
+I'm passionate about systems programming, operating systems, and infrastructure engineering. I enjoy building software that exposes what happens beneath the abstraction layer, whether that's interacting directly with the Win32 API, designing scalable simulation systems, or building enterprise infrastructure from the ground up.
 
-I enjoy building projects that expose what's happening underneath the abstraction layer and using them to better understand operating systems, networking, and defensive security.
+Most of my work focuses on understanding how complex systems operate internally and translating that knowledge into practical, well-documented projects. My goal is to continuously deepen my understanding of low-level software, operating systems, virtualization, networking, and infrastructure architecture.
 
 ---
 
@@ -48,62 +48,34 @@ I enjoy building projects that expose what's happening underneath the abstractio
 
 ---
 
-# Projects
+# Featured Projects
 
-## Systems Programming
-
-### SysMonitor-Core *(In Development)*
-
-Windows systems programming project exploring process enumeration, memory management, Windows security tokens, and the Win32 API.
-
-### WindowsCommandShell
-
-A custom Windows shell written in C implementing process creation, handle inheritance, and input/output redirection using the Win32 API.
+| Project                | Description                                                                                                                  | Status |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------- | :----: |
+| **Project Silicon**    | A factory simulation game focused on simulation architecture, algorithms, performance, and scalable software design.         |   🚧   |
+| **SysMonitor-Core**    | Windows systems programming exploring the Win32 API, process enumeration, memory management, and security tokens.            |   🚧   |
+| **Infrastructure Lab** | Enterprise infrastructure featuring VMware, Windows Server, Linux, Active Directory, automation, networking, and monitoring. |    ✅   |
 
 ---
 
-## Security Engineering
+# Other Projects
 
-### Linux Attack Detection (Splunk)
+| Project                      | Description                                                                                                                 |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **WindowsCommandShell**      | A custom Windows shell implementing process creation, handle inheritance, and input/output redirection using the Win32 API. |
+| **Linux Attack Detection**   | Security monitoring lab using Splunk, auditd, rsyslog, and MITRE ATT&CK techniques.                                         |
+| **Rocky Linux Hardening**    | Collection of Bash scripts for system hardening and baseline configuration.                                                 |
+| **pfSense Security Gateway** | Virtualized enterprise network with WAN/LAN/DMZ segmentation, Suricata IPS, and pfBlockerNG.                                |
+| **OpenSCAP + Ansible**       | Infrastructure-as-Code project automating compliance scanning and security baseline reporting.                              |
 
-Security monitoring lab using Splunk, auditd, rsyslog, and MITRE ATT&CK to detect process execution, persistence techniques, and privilege escalation.
-
-### Rocky Linux 9 Hardening
-
-Collection of Bash scripts implementing security hardening and baseline configuration for Rocky Linux 9 systems.
-
----
-
-## Security Research
-
-### Modular C2 Framework
-
-A modular Python framework built to study command-and-control architecture, remote task execution, plugin systems, and asynchronous communication in an isolated lab environment.
-
-### Cowrie Honeypot Deployment
-
-Automated deployment of a Cowrie SSH/Telnet honeypot using Ansible.
-
----
-
-## Infrastructure Automation
-
-### OpenSCAP + Ansible
-
-Infrastructure-as-Code project automating OpenSCAP compliance scanning against CIS benchmarks using Ansible, Semaphore UI, and a Flask reporting service.
-
-### pfSense Security Gateway
-
-Virtualized enterprise network with WAN, LAN, and DMZ segmentation, firewall policy enforcement, Suricata IPS, and pfBlockerNG.
 
 ---
 
 # Education
 
-**ICT: Cybersecurity & Cloud** *(Core Technical Curriculum Completed)*
+**ICT – Cybersecurity & Cloud**
+Coursework Completed
+Artesis Plantijn University College
 
-Artesis Plantijn University College (2023–2026)
-
-**CS50x: Introduction to Computer Science**
-
+**CS50x – Introduction to Computer Science**
 Harvard University (edX)
