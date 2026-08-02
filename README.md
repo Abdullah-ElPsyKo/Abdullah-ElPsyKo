@@ -27,7 +27,6 @@ I'm currently expanding my knowledge of Windows internals, operating system arch
 <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/-ELK_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white" />
 <img src="https://img.shields.io/badge/-pfSense-000000?style=for-the-badge&logo=pfsense&logoColor=white" />
-<img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </div>
 
 ### Operating Systems
