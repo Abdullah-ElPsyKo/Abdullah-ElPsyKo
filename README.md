@@ -54,9 +54,8 @@ I'm currently expanding my knowledge of Windows internals, operating system arch
 | Project                | Description                                                                                                                  | Status |
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------- | :----: |
 | **Project Silicon**    | A factory simulation game focused on simulation architecture, algorithms, performance, and scalable software design.         |   🚧   |
-| **SysMonitor-Core**    | Windows systems programming exploring the Win32 API, process enumeration, memory management, and security tokens.            |   🚧   |
 | **windows-internals**    | Notes and code from my study of Windows Internals.                                                                         |   🚧   |
-| **Infrastructure Lab** | Enterprise infrastructure featuring VMware, Windows Server, Linux, Active Directory, automation, networking, and monitoring. |    ✅   |
+| **Forgeline Enterprise Lab** | Enterprise infrastructure featuring Windows Server, Active Directory, automation, networking, security hardening and monitoring. |    🚧   |
 
 ---
 
@@ -69,6 +68,8 @@ I'm currently expanding my knowledge of Windows internals, operating system arch
 | **Rocky Linux Hardening**    | Collection of Bash scripts for system hardening and baseline configuration.                                                 |
 | **pfSense Security Gateway** | Virtualized enterprise network with WAN/LAN/DMZ segmentation, Suricata IPS, and pfBlockerNG.                                |
 | **OpenSCAP + Ansible**       | Infrastructure-as-Code project automating compliance scanning and security baseline reporting.                              |
+| **SysMonitor-Core**          | Windows systems programming exploring the Win32 API, process enumeration, memory management, and security tokens.           |
+
 
 
 ---
