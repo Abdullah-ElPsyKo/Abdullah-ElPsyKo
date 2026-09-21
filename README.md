@@ -53,8 +53,6 @@ I'm currently expanding my knowledge of Windows internals, operating system arch
 
 | Project                | Description                                                                                                                  | Status |
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------- | :----: |
-| **Project Silicon**    | A factory simulation game focused on simulation architecture, algorithms, performance, and scalable software design.         |   🚧   |
-| **windows-internals**    | Notes and code from my study of Windows Internals.                                                                         |   🚧   |
 | **Forgeline Enterprise Lab** | Enterprise infrastructure featuring Windows Server, Active Directory, automation, networking, security hardening and monitoring. |    🚧   |
 
 ---
