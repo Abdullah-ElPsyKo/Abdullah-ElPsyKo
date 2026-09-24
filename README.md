@@ -2,11 +2,9 @@
 
 **Systems Programming | Infrastructure Engineering**
 
-I'm passionate about systems programming, operating systems, and infrastructure engineering. I enjoy building software that explores what happens beneath the abstraction layer, whether that's working with the Win32 API, understanding Windows internals, or designing infrastructure from the ground up.
+I enjoy building things and understanding how they work under the hood, from software and systems programming to infrastructure and networking.
 
-My current interests include Windows internals, systems programming, virtualization, networking, and infrastructure architecture. I'm particularly interested in understanding how modern operating systems work internally and turning that knowledge into practical, well-documented projects.
-
-I'm currently expanding my knowledge of Windows internals, operating system architecture, and low-level software development through hands-on projects and continuous study.
+Most of my work is hands-on: building projects, experimenting with different technologies, and learning by actually making things work. I'm especially interested in systems, infrastructure, and engineering in general, and I'm always looking for something new to build or figure out.
 
 ---
 
